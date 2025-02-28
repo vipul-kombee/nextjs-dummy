@@ -41,4 +41,4 @@ jobs:
         run: npm run build
 
       - name: Show Version
-        run: echo "Current Version: $VERSION"
+        run: echo "Current Version:\ $VERSION"
